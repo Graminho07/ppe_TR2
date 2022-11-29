@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(243, 164, 61);
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15cm;
+}
